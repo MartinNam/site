@@ -89,13 +89,14 @@ header div p{
 }
 
 main{
-    
+
     position: relative;
     z-index: 1;
-    margin: 0 auto;
+    margin: auto;
+   
+
     background-color: rgb(17, 14, 14);
     width: 600px;
-    height: 1600px;
 
     border-style: solid;
     border-color: rgb(51, 23, 51);
@@ -103,5 +104,8 @@ main{
 }
 
 main img{
-    width: 100%;
+    max-width: 90%;
+    margin: auto;
+    padding: 5px;
+    
 }
