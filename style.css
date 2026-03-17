@@ -15,9 +15,12 @@
     background-color: rgb(17, 14, 14);
 
 }
-
+html{
+    background-color: black;
+}
 body{
     background-color: black;
+
 }
 
 .bg{
@@ -89,6 +92,7 @@ header div p{
 }
 
 main{
+
 
     position: relative;
     z-index: 1;
